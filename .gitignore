@@ -110,4 +110,4 @@ content.json
 
 content/*.png
 content/*.jpg
-*.mp4
+content/*.mp4
